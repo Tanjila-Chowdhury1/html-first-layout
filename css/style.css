@@ -1,0 +1,36 @@
+th{
+    font-size:30px;
+    color: brown;
+}
+.first_tr{
+    font-size:20px;
+    background-color: coral;
+}
+.second_tr{
+background-color: cyan;
+font-size:50px;
+}
+.third_tr{
+    background-color: darkgreen;
+    font-size:60px;
+}
+.fourth_tr{
+    color: darkorchid;
+    text-align:center;
+}
+.fifth_tr{
+    text-align: end;
+    color: indianred;
+}
+.twenty_tr{
+    background-color: khaki;
+    color: maroon;
+}
+.fourty_tr{
+    color: yellow;
+}
+.fifty_tr{
+    color: tomato;
+    background-color: wheat;
+
+}
